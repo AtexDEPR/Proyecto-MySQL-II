@@ -37,7 +37,7 @@ Para ejecutar este proyecto, se requiere el siguiente software:
 Primero, clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/tu-usuario/los-ambientales.git
+git clone https://github.com/tu-usuario/Proyecto-MySQL-II.git
 cd los-ambientales
 ```
 
